@@ -18,3 +18,8 @@ public class KoscheiTheDeathless {
         this.ocean = ocean;
     }
 }
+
+
+/**
+ * 1) KoscheiTheDeathless связывается с Ocean1 через сеттер setOcean и аннотации @Autowired над ней.
+ */
